@@ -19,8 +19,8 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![project_license][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/marco-gunawan9763/]
+[![project_license][license-shield]](https://mit-license.org/)
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/marco-gunawan9763/)
 
 <!-- PROJECT LOGO -->
 <br />
