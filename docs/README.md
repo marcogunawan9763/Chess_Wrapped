@@ -25,11 +25,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/marcogunawan9763/Chess_Wrapped">
+    <img src="README_icon.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Chess Wrapped 25-26</h3>
 
   <p align="center">
     project_description
@@ -77,7 +77,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
+This project aims to "copy" the idea of a Spotify wrapped and map it to a chess.com player's annual data. It is purely for fun - from my end to test my coding skills and practice creating something witth minimal AI help (no agents, etc). I wanted to create something that was properly documented, and follows best practice of coding principals to see if I can do this for a living hehe. Otherwise - should be self explanotry and I hope that the project brings joy to other peopole's lives too!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,7 +147,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-- [ ] Feature 1
+- [ ] Connecting to Chess.com API - testing basic funcitonalities.
 - [ ] Feature 2
 - [ ] Feature 3
   - [ ] Nested Feature
@@ -155,29 +155,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Top contributors:
-
-<a href="https://github.com/github_username/repo_name/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="contrib.rocks image" />
-</a>
 
 <!-- LICENSE -->
 
@@ -191,19 +168,9 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Marco Gunawan - [Linkedin](https://www.linkedin.com/in/marco-gunawan9763/)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-- []()
-- []()
-- []()
+Project Link: [https://github.com/marcogunawan9763/Chess_Wrapped](https://github.com/marcogunawan9763/Chess_Wrapped)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
